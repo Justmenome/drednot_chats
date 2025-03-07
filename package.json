@@ -1,4 +1,3 @@
-// package.json (create with `npm init -y`)
 {
   "name": "simple-chat",
   "version": "1.0.0",
